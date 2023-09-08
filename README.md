@@ -16,12 +16,12 @@
 -  Search for Countries.
 -  Display country name, capital, continent.
 -  Display country population, currency, language.
--  Fully responsive.
 -  Display a warning message if user:
   
      🚫 wrote invalid country name.
    
      🚫 searched  while the input field is empty.
+-  Fully responsive.
 
 
 ## 💻 Tech stack
