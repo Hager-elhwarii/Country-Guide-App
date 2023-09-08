@@ -15,12 +15,8 @@
 ## 📝 Features
 
 -  Search for Countries.
--  Display country name.
--  Display country capital
--  Display country continent.
--  Display country population.
--  Display country currency.
--  Display country language.
+-  Display country name, capital, continent.
+-  Display country population, currency, language.
 -  Fully responsive.
 -  Display a warning message if user wrote invalid country name, or searched  while the input field is empty.
 
