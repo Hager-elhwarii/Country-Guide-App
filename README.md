@@ -5,7 +5,6 @@
 
 ## 📷  Demo Screenshoot
 
-![image](https://github.com/Hager-elhwarii/Country-Guide-App/assets/80959882/a98073c2-4688-42ec-99b0-6a5edf00484e)
 ![image](https://github.com/Hager-elhwarii/Country-Guide-App/assets/80959882/87d10ecb-a9f0-4a90-bab7-5ac8afa1a6ee)
 
 
@@ -18,7 +17,11 @@
 -  Display country name, capital, continent.
 -  Display country population, currency, language.
 -  Fully responsive.
--  Display a warning message if user wrote invalid country name, or searched  while the input field is empty.
+-  Display a warning message if user:
+  
+     🚫 wrote invalid country name.
+   
+     🚫 searched  while the input field is empty.
 
 
 ## 💻 Tech stack
