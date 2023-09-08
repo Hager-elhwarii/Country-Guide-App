@@ -3,7 +3,7 @@
 
 - Create a country guide app that allows the user to search for a particular country and then displays information related to the searched country.
 
-## 📷  Demo Screenshoot
+## 📸  Demo Screenshoot
 
 ![image](https://github.com/Hager-elhwarii/Country-Guide-App/assets/80959882/161a8c1b-c29f-412a-8cdd-aea8fd0060a6)
 
