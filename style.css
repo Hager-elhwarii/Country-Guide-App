@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #000;
+}
+.wrapper {
+  border: 4px solid red;
+  width: 80vmin;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  padding: 30px;
+  background-color: paleturquoise;
+}
+.search-contanier {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+.search-contanier input {
+  width: 75%;
+  padding: 10px 0 10px 10px;
+
+}
+.search-contanier button {
+    width: 25%;
+    cursor: pointer;
+}
+.flag-img{
+  width: 30%;
+}
