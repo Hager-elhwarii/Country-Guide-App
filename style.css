@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Manrope:wght@300&family=Poppins:wght@300&family=Quicksand&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -6,18 +8,19 @@
 body {
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
     url("https://media.moddb.com/images/groups/1/4/3147/EU_Flags_01_1.jpg");
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 .wrapper {
-  /* width: 90vmin; */
+  width: 100%;
   min-height: 100vh;
   padding: 30px;
-  display: flex;
+  /* display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
 }
 .search-container {
   display: flex;
@@ -26,6 +29,7 @@ body {
   width: 100%;
   max-width: 600px;
   padding: 0.8em 2em;
+  margin-top: 1.5em;
   border-radius: 60px;
   background-color: #fff;
 }
@@ -37,7 +41,7 @@ body {
   outline: none;
   font-size: 17px;
   padding: 0.8em 0.5em;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .search-container button {
   /* width: 25%; */
@@ -56,10 +60,41 @@ body {
   display: block;
   margin: auto;
   border-radius: 50%;
-  border: 6px solid #fff;
+  border: 6px solid #ebeaea;
 }
 .country-data {
-  margin: 1em 0;
-  padding: 2em 2em;
+  max-width: 600px;
+  border-radius: 4px;
   background-color: #fff;
+  margin: 3em auto;
+  padding: 2em 0;
+}
+.country-name {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Quicksand";
+  color: rgb(32, 32, 32);
+  margin: 0.3em 0;
+}
+.data-wrapper {
+  padding: 0.5em 4em;
+  font-size: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.data-wrapper h4 {
+  color: rgb(26, 26, 26);
+  font-weight: 600;
+  font-size: 19px;
+}
+.data-wrapper span {
+  color: rgb(70, 70, 70);
+  font-weight: 400;
+}
+.empty-input,.unvalid-input {
+  font-size: 20px;
+  font-family: "Quicksand";
+  color: #fff;
+  margin-left: 2em ;
+  margin-top: 0.2em;
+  color: red;
 }
