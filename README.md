@@ -5,7 +5,7 @@
 
 ## 📷  Demo Screenshoot
 
-![image](https://github.com/Hager-elhwarii/Country-Guide-App/assets/80959882/87d10ecb-a9f0-4a90-bab7-5ac8afa1a6ee)
+![Uploading image.png…]()
 
 
 ## 🚀 Deployment
