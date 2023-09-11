@@ -47,6 +47,7 @@ git clone https://github.com/Hager-elhwarii/Country-Guide-App.git
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](http://hager.a.elhawary@gmail.com/)
 - [Netlify](https://www.netlify.com/)
+- [Yandex](https://yandex.com/)
 
 ## 🦄   Author
 If you want to get in-touch with me you can reach me at:
